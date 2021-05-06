@@ -1,5 +1,5 @@
 Flask==1.0
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 numpy==1.12.1
 numpydoc==0.6.0
 scikit-image==0.13.0
